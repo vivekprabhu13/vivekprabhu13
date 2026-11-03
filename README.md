@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Vivek Prabhu 👋
 
-<!--
-**vivekprabhu13/vivekprabhu13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sr. Technical Architect with 19 years in enterprise software (SAP ABAP, S/4HANA, Fiori), now building with generative AI.
 
-Here are some ideas to get you started:
+I explain complex systems to business and engineering teams, and I've trained colleagues on prompt engineering, Gemini tools and vibe coding.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+| Project | What it does | Stack |
+|---|---|---|
+| [Electoral Intelligence](https://github.com/vivekprabhu13/electoral-intelligence-india) | Gemini assistant that answers Indian voter-registration and polling questions with an ECI-grounded persona | React, Vite, Gemini, Docker, Cloud Build |
+| [KrowdFlux](https://github.com/vivekprabhu13/krowdflux-crowd-management-app) | Stadium companion: ticket OCR into structured data plus a context-aware chat assistant | React, TypeScript, Gemini |
+| [Workout Plan Generator](https://github.com/vivekprabhu13/workout-plan-generator) | Weekly workout plans from a structured fitness profile, injury-aware | Streamlit, Groq |
+| [Trip Manager](https://github.com/vivekprabhu13/trip-manager-app) | Mobile-first itinerary app with nested plans and document links | Next.js, Firebase |
+
+Demo videos are linked in each README. Live deployments are paused to protect API quota.
+
+## Currently
+- Enrolled in the Codebasics AI Engineering Bootcamp (RAG, LangGraph agents, evals, MCP), finishing Jan 2027
+- Adding evaluation sets and a Claude API option to my projects
+
+## Certifications
+Google AI Professional Certificate · Generative AI Leadership · Prompt Engineering for ChatGPT · Google Cloud Gen AI Academy APAC · Certified Scrum Master
+
+📫 [LinkedIn](https://www.linkedin.com/in/vivekprabhu13/) · [Portfolio](https://vivek-prabhu-portfolio.netlify.app)
