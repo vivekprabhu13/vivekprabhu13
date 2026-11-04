@@ -12,6 +12,7 @@ I explain complex systems to business and engineering teams, and I've trained co
 | [KrowdFlux](https://github.com/vivekprabhu13/krowdflux-crowd-management-app) | Stadium companion: ticket OCR into structured data plus a context-aware chat assistant | React, TypeScript, Gemini |
 | [Workout Plan Generator](https://github.com/vivekprabhu13/workout-plan-generator) | Weekly workout plans from a structured fitness profile, injury-aware | Streamlit, Groq |
 | [Trip Manager](https://github.com/vivekprabhu13/trip-manager-app) | Mobile-first itinerary app with nested plans and document links | Next.js, Firebase |
+| [Korean Learning Level 1](https://github.com/vivekprabhu13/korean-learning-level1) · [**Live**](https://learn-korean-level1.netlify.app/) | Revision app I built for my Korean batchmates: Hangul, 50 verbs, 32 grammar patterns, dialogues and quizzes with audio | React, Vite, Tailwind |
 
 Demo videos are linked in each README. Live deployments are paused to protect API quota.
 
